@@ -1,6 +1,6 @@
 {
   "Client": {
-    "dwEntityList": "0x24B3268",
+    "dwEntityList": "0x24268",
     "dwLocalPlayerController": "0x22F8028",
     "dwViewAngles": "0x231E9B8",
     "dwViewMatrix": "0x2313F10"
