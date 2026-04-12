@@ -14,8 +14,7 @@
     "m_hPlayerPawn": "0x90C",
     "m_bSpottedByMask": "0x8",
     "m_sSanitizedPlayerName": "0x860",
-    "m_pObserverServices": "0x13F0",
-    "m_hObserverTarget": "0x4C"
+    "m_angEyeAngles": "0x3DD0"
   },
   "PlayerPawn": {
     "m_aimPunchAngle": "0x16CC",
