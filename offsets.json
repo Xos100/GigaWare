@@ -14,11 +14,11 @@
     "m_hPlayerPawn": "0x90C",
     "m_bSpottedByMask": "0x8",
     "m_sSanitizedPlayerName": "0x860",
-    "m_angEyeAngles": "0x3DD0"
   },
   "PlayerPawn": {
     "m_aimPunchAngle": "0x16CC",
     "m_vecViewOffset": "0xD58"
+    "m_angEyeAngles": "0x3DD0"
   },
   "Misc": {
     "m_iShotsFired": "0x270C"
