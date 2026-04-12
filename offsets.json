@@ -12,7 +12,9 @@
     "m_vOldOrigin": "0x1588",
     "m_pGameSceneNode": "0x338",
     "m_hPlayerPawn": "0x90C",
-    "m_bSpottedByMask": "0x8"
+    "m_bSpottedByMask": "0x8",
+    "m_sSanitizedPlayerNam": "0x860",
+    "m_pObserverServices": "0x13F0"
   },
   "PlayerPawn": {
     "m_aimPunchAngle": "0x16CC",
