@@ -3,7 +3,8 @@
     "dwEntityList": "0x24B3268",
     "dwLocalPlayerController": "0x22F8028",
     "dwViewAngles": "0x231E9B8",
-    "dwViewMatrix": "0x2313F10"
+    "dwViewMatrix": "0x2313F10",
+    "dwForceJump": "0x2066C70"
   },
   "Entity": {
     "m_iHealth": "0x354",
