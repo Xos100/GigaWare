@@ -4,7 +4,8 @@
     "dwLocalPlayerController": "0x22F8028",
     "dwViewAngles": "0x231E9B8",
     "dwViewMatrix": "0x2313F10",
-    "dwForceJump": "0x2066C70"
+    "dwForceJump": "0x2066C70",
+    "m_iIDEntIndex": "0x3EAC"
   },
   "Entity": {
     "m_iHealth": "0x354",
@@ -18,7 +19,7 @@
   },
   "PlayerPawn": {
     "m_aimPunchAngle": "0x16CC",
-    "m_vecViewOffset": "0xD58"
+    "m_vecViewOffset": "0xD58",
     "m_angEyeAngles": "0x3DD0"
   },
   "Misc": {
