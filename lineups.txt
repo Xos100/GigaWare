@@ -1,0 +1,16 @@
+# Starter lineup pack generated from uploaded mirage.cfg and dust2.cfg.
+# Format: name|throw|nade|pos(x,y,z)|aim(x,y,z)|target(x,y,z optional)
+# Only entries that had explicit setpos/setang comments were converted directly.
+Mirage S1 Top Con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-35.250259,-148.314117,0.000000
+Mirage S1 Bottom Con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-50.989075,-156.875702,0.000000
+Mirage S2 Top Con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-43.905212,-156.404724,0.000000
+Mirage S2 Bottom Con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-43.124924,-168.199127,0.000000
+Mirage S3 Top Con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-39.608734,-148.200897,0.000000
+Mirage S3 Bottom Con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-53.607182,-156.948029,0.000000
+Mirage S4 Top Con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-40.779106,-150.418671,0.000000
+Mirage S4 Bottom Con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-54.454220,-159.490356,0.000000
+Mirage S5 Top Con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-55.547829,-148.282959,0.000000
+Mirage S5 Bottom Con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-54.777691,-162.004120,0.000000
+Mirage CT Astralis|Jump Throw|Smoke|-1776.000000,-1976.000000,-263.968750|-25.794962,41.439438,0.000000
+Dust2 CT Fast Long House|Jump Throw|Smoke|769.708923,2379.968262,-35.420898|-52.806522,-91.647049,0.000000
+Dust2 CT Fast Long House 2|Jump Throw|Smoke|732.148621,2344.968750,-47.171936|-53.745754,-90.521515,0.000000
