@@ -14,3 +14,18 @@ global|de_mirage CT A Tetris|Normal|Smoke|-1710.827,-1554.560,-260.183|-45.374,-
 global|de_mirage CT A Main|Jump Throw|Smoke|-2026.388,-2029.972,-299.118|-23.656,15.287,0.000|5211.744,-51.589,3048.542
 global|de_mirage CT A Palace|Jump Throw|Smoke|-2031.937,-1766.241,-298.574|-28.756,-11.045,0.000|5016.742,-3142.118,3701.407
 global|de_mirage A Connector|Run Throw|Smoke|-1045.750,-377.794,-347.068|-18.920,-52.477,0.000|3674.261,-6523.923,2367.014
+## De_Dust 2
+global|de_dust 2 T Long Corner|Jump Throw|Smoke|-513.075,-662.698,126.241|-21.009,48.221,0.000|4582.139,5040.099,3122.338
+global|de_dust 2 T Long Corner 2|Jump Throw|Smoke|-187.861,-660.031,49.762|-20.199,52.896,0.000|4450.141,5471.590,2939.059
+global|de_dust 2 T Xbox|Jump Throw|Smoke|-299.938,-1163.964,77.673|-12.306,90.360,0.000|-350.204,6839.659,1882.938
+global|de_dust 2 T Double Doors|Jump Throw|Smoke|-438.518,-1042.762,128.031|-4.109,88.437,0.000|-215.637,7125.144,778.970
+global|de_dust 2 CT Cross|Jump Throw|Smoke|897.302,1070.774,1.028|-55.341,81.799,0.000|1561.883,5681.869,6803.064
+global|de_dust 2 Long Door|Jump Throw|Smoke|769.743,2379.938,-35.560|-53.398,-91.710,0.000|624.014,-2502.419,6600.649
+global|de_dust 2 Lurk|Jump Throw|Smoke|489.943,1599.452,1.791|-29.211,133.593,0.000|-4440.348,6778.037,4063.137
+global|de_dust 2 Lurk|Jump Throw|Smoke|489.969,1446.052,0.556|-6.785,88.357,0.000|723.258,9577.331,1032.294
+global|de_dust 2 CT Smoke|Jump Throw|Smoke|191.431,1335.483,1.084|-15.711,66.286,0.000|3362.924,8555.581,2282.185
+global|de_dust 2 B Window|Jump Throw|Smoke|-1332.152,491.949,8.031|-50.868,89.087,0.000|-1249.787,5661.329,6426.525
+global|de_dust 2 B Doors|Jump Throw|Smoke|-1332.152,491.949,8.031|-56.637,86.739,0.000|-1075.896,4989.833,6913.978
+global|de_dust 2 B Doors Tunnel|Jump Throw|Smoke|-2185.965,1059.031,39.665|-52.508,53.516,0.000|778.747,5068.010,6603.006
+global|de_dust 2 B Site Molly|Jump Throw|Molotov|-1273.969,2575.968,70.401|0.724,11.680,0.000|6747.756,4234.309,26.394
+global|de_dust 2 B Plat Molly|Jump Throw|Molotov|-1062.031,2070.048,66.031|6.512,136.653,0.000|-6980.927,7656.846,-799.071
