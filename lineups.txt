@@ -1,4 +1,6 @@
 ## De_Mirage
+## De_Dust 2
+
 global|de_mirage T window|Jump Throw|Smoke|1422.969,36.453,-167.969|-30.457,-164.312,0.000|-5375.564,-1873.014,4048.469
 global|de_mirage T short|Jump Throw|Smoke|1422.965,-367.969,-167.969|-33.999,176.298,0.000|-5354.429,70.511,4476.810
 global|de_mirage T tunnel|Jump Throw|Smoke|1422.965,-367.969,-167.969|-47.459,-178.824,0.000|-4114.673,-481.667,5931.800
@@ -14,7 +16,6 @@ global|de_mirage CT A Tetris|Normal|Smoke|-1710.827,-1554.560,-260.183|-45.374,-
 global|de_mirage CT A Main|Jump Throw|Smoke|-2026.388,-2029.972,-299.118|-23.656,15.287,0.000|5211.744,-51.589,3048.542
 global|de_mirage CT A Palace|Jump Throw|Smoke|-2031.937,-1766.241,-298.574|-28.756,-11.045,0.000|5016.742,-3142.118,3701.407
 global|de_mirage A Connector|Run Throw|Smoke|-1045.750,-377.794,-347.068|-18.920,-52.477,0.000|3674.261,-6523.923,2367.014
-## De_Dust 2
 global|de_dust 2 T Long Corner|Jump Throw|Smoke|-513.075,-662.698,126.241|-21.009,48.221,0.000|4582.139,5040.099,3122.338
 global|de_dust 2 T Long Corner 2|Jump Throw|Smoke|-187.861,-660.031,49.762|-20.199,52.896,0.000|4450.141,5471.590,2939.059
 global|de_dust 2 T Xbox|Jump Throw|Smoke|-299.938,-1163.964,77.673|-12.306,90.360,0.000|-350.204,6839.659,1882.938
