@@ -23,7 +23,7 @@ global|de_dust2 T Long Corner|Jump Throw|Smoke|-513.075,-662.698,126.241|-21.009
 global|de_dust2 T Long Corner 2|Jump Throw|Smoke|-187.861,-660.031,49.762|-20.199,52.896,0.000|4450.141,5471.590,2939.059
 global|de_dust2 T Xbox|Jump Throw|Smoke|-299.938,-1163.964,77.673|-12.306,90.360,0.000|-350.204,6839.659,1882.938
 global|de_dust2 T Double Doors|Jump Throw|Smoke|-438.518,-1042.762,128.031|-4.109,88.437,0.000|-215.637,7125.144,778.970
-global|de_dust2 CT Cross|Jump Throw|Smoke|897.302,1070.774,1.028|-55.341,81.799,0.000|1561.883,5681.869,6803.064
+global|de_dust2 CT Cross|Normal|Smoke|897.302,1070.774,1.028|-55.341,81.799,0.000|1561.883,5681.869,6803.064
 global|de_dust2 Long Door|Jump Throw|Smoke|769.743,2379.938,-35.560|-53.398,-91.710,0.000|624.014,-2502.419,6600.649
 global|de_dust2 Lurk|Jump Throw|Smoke|489.943,1599.452,1.791|-29.211,133.593,0.000|-4440.348,6778.037,4063.137
 global|de_dust2 Lurk|Jump Throw|Smoke|489.969,1446.052,0.556|-6.785,88.357,0.000|723.258,9577.331,1032.294
