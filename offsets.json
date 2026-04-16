@@ -5,7 +5,8 @@
     "dwViewAngles": "0x231E9B8",
     "dwViewMatrix": "0x2313F10",
     "dwForceJump": "0x2066C70",
-    "m_iIDEntIndex": "0x3EAC"
+    "m_iIDEntIndex": "0x3EAC",
+    "dwGlobalVars": "0x2062540"
   },
   "Entity": {
     "m_iHealth": "0x354",
