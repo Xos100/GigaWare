@@ -1,16 +1,101 @@
-# Starter lineup pack generated from uploaded mirage.cfg and dust2.cfg.
-# Format: name|throw|nade|pos(x,y,z)|aim(x,y,z)|target(x,y,z optional)
-# Only entries that had explicit setpos/setang comments were converted directly.
-Mirage S1 Top Con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-35.250259,-148.314117,0.000000
-Mirage S1 Bottom Con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-50.989075,-156.875702,0.000000
-Mirage S2 Top Con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-43.905212,-156.404724,0.000000
-Mirage S2 Bottom Con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-43.124924,-168.199127,0.000000
-Mirage S3 Top Con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-39.608734,-148.200897,0.000000
-Mirage S3 Bottom Con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-53.607182,-156.948029,0.000000
-Mirage S4 Top Con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-40.779106,-150.418671,0.000000
-Mirage S4 Bottom Con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-54.454220,-159.490356,0.000000
-Mirage S5 Top Con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-55.547829,-148.282959,0.000000
-Mirage S5 Bottom Con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-54.777691,-162.004120,0.000000
-Mirage CT Astralis|Jump Throw|Smoke|-1776.000000,-1976.000000,-263.968750|-25.794962,41.439438,0.000000
-Dust2 CT Fast Long House|Jump Throw|Smoke|769.708923,2379.968262,-35.420898|-52.806522,-91.647049,0.000000
-Dust2 CT Fast Long House 2|Jump Throw|Smoke|732.148621,2344.968750,-47.171936|-53.745754,-90.521515,0.000000
+# Combined lineup pack generated from uploaded map CFGs
+# Import format: name|throw|nade|pos(x,y,z)|aim(x,y,z)
+# Included maps and counts:
+#   ancient.cfg: 17
+#   anubis.cfg: 9
+#   dust2.cfg: 11
+#   inferno.cfg: 6
+#   mirage.cfg: 32
+#   nuke.cfg: 3
+#   overpass.cfg: 7
+# Skipped entries without usable stand positions:
+#   nuke.cfg: nuk_smoke_1 (no stand position)
+#   nuke.cfg: nuk_smoke_2 (no stand position)
+#   vertigo.cfg: ver_molly_1 (no stand position)
+#   vertigo.cfg: ver_smoke_1 (no stand position)
+
+Ancient A main CT - SPAWN 4|Jump Throw|Smoke|-448.000000,1728.000000,32.000000|-25.548611,-126.110466,0.000000
+Ancient A main CT - SPAWN 5|Jump Throw|Smoke|-512.000000,1696.000000,26.827896|-40.609711,-126.813141,0.000000
+Ancient Mid Extinguish Smoke Spawn 1|Jump Throw|Smoke|-192.000000,1696.000000,26.048355|-59.397579,98.208389,0.000000
+Ancient Mid Extinguish Smoke Spawn 4|Jump Throw|Smoke|-448.000000,1728.000000,32.000000|-59.967350,105.769230,0.000000
+Ancient Mid Extinguish Smoke Spawn 5|Jump Throw|Smoke|-512.000000,1696.000000,26.827896|-57.576382,108.277870,0.000000
+Ancient A Donut Smoke|Jump Throw|Smoke|-512.000000,1696.000000,26.827896|-42.346802,54.460312,0.000000
+Ancient Instant mid smoke CT - spawn 1|Jump Throw|Smoke|-192.000000,1696.000000,26.048355|-32.016529,-108.572388,0.000000
+Ancient Instant mid smoke CT - spawn 2|Jump Throw|Smoke|-256.000000,1728.000000,25.602617|-26.842178,-107.140221,0.000000
+Ancient Instant mid smoke CT - spawn 3|Jump Throw|Smoke|-352.000366,1728.000244,28.813251|-27.258087,-105.215515,0.000000
+Ancient Instant mid smoke CT - spawn 4|Jump Throw|Smoke|-448.000000,1728.000000,32.000000|-25.610054,-103.013916,0.000000
+Ancient Instant mid smoke CT - spawn 5|Jump Throw|Smoke|-512.000000,1696.000000,26.827896|-26.549553,-101.750763,0.000000
+Ancient Instant B doors smoke CT - spawn 1|Jump Throw|Smoke|-192.000275,1696.000000,26.053041|-19.296234,-51.299538,0.000000
+Ancient Instant B doors smoke CT - spawn 2|Jump Throw|Smoke|-256.000336,1728.000000,25.602570|-22.653358,-49.528717,0.000000
+Ancient Instant B doors smoke CT - spawn 3|Jump Throw|Smoke|-352.000427,1728.000000,28.813255|-14.013996,-52.131416,0.000000
+Ancient Instant B doors smoke CT - spawn 4|Jump Throw|Smoke|-448.000336,1728.000244,30.739716|-14.537582,-48.358429,0.000000
+Ancient Instant B doors smoke CT - spawn 5|Jump Throw|Smoke|-512.000183,1695.999878,26.837202|-17.386574,-46.803047,0.000000
+Ancient Instant B cave molotov|Normal|Molotov|-512.000000,1696.000000,26.827896|-9.464119,128.650574,0.000000
+Anubis T Stairs Smoke Spawn 2|Jump Throw|Smoke|-400.000000,2192.000000,25.031250|-28.361523,-62.223072,0.000000
+Anubis Rugs Smoke Spawn 2|Jump Throw|Smoke|-400.000000,2192.000000,25.031250|-40.342808,-45.434208,0.000000
+Anubis T Stairs Smoke Spawn 3|Jump Throw|Smoke|-476.000000,2216.000000,25.031250|-31.908745,-61.171192,0.000000
+Anubis Rugs Smoke Spawn 3|Jump Throw|Smoke|-476.000000,2216.000000,25.031250|-31.554554,-45.648056,0.000000
+Anubis T Stairs Smoke Spawn 4|Jump Throw|Smoke|-560.000000,2192.000000,25.031250|-28.135780,-59.461079,0.000000
+Anubis Rugs Smoke Spawn 4|Jump Throw|Smoke|-560.000000,2192.000000,25.031250|-28.351559,-43.322205,0.000000
+Anubis T Stairs Smoke Spawn 5|Jump Throw|Smoke|-608.000000,2120.000000,16.056595|-27.103958,-56.365150,0.000000
+Anubis Rugs Smoke Spawn 5|Jump Throw|Smoke|-608.000000,2120.000000,16.056595|-37.144733,-40.995747,0.000000
+Anubis E-Box Molotov|Normal|Molotov|-608.000000,2120.000000,16.056595|-12.874342,96.901520,0.000000
+Dust2 Instant mid doors - SPAWN 1|Jump Throw|Smoke|-1181.000000,-754.000000,120.181259|-31.415901,71.831093,0.000000
+Dust2 Instant mid doors - SPAWN 2|Jump Throw|Smoke|-1141.000000,-808.000000,116.685989|-41.749401,74.342468,0.000000
+Dust2 Instant mid doors - SPAWN 3|Jump Throw|Smoke|-1076.000000,-843.000000,116.789474|-40.655861,75.843445,0.000000
+Dust2 Instant mid doors - SPAWN 12|Jump Throw|Smoke|-493.000000,-808.000000,108.563377|-14.444424,88.997726,0.000000
+Dust2 Instant mid doors - SPAWN 13|Jump Throw|Smoke|-428.000000,-843.000000,95.296295|-16.766590,90.614998,0.000000
+Dust2 Instant mid doors - SPAWN 14|Jump Throw|Smoke|-367.000000,-808.000000,83.744965|-15.850819,91.815300,0.000000
+Dust2 Instant mid doors - SPAWN 15|Jump Throw|Smoke|-332.000000,-754.000000,78.877106|-13.675358,92.662476,0.000000
+Dust2 Instant B doors|Jump Throw|Smoke|-332.000000,-754.000000,78.877106|-23.638971,94.226000,0.000000
+Dust2 Fast Long house (CT)|Jump Throw|Smoke|769.708923,2379.968262,-35.420898|-52.806522,-91.647049,0.000000
+Dust2 Fast Long house 2 (CT)|Jump Throw|Smoke|732.148621,2344.968750,-47.171936|-53.745754,-90.521515,0.000000
+Dust2 CT Upper tunnels|Jump Throw|Smoke|-332.000000,-754.000000,78.877106|-70.486359,-141.103409,0.000000
+Inferno FaZe mid smoke - spawn 1|Jump Throw|Smoke|2472.349854,2005.969971,134.505051|-30.876968,-141.403290,0.000000
+Inferno FaZe mid smoke - spawn 2|Jump Throw|Smoke|2493.000000,2090.000000,132.551376|-29.121363,-140.103500,0.000000
+Inferno FaZe mid smoke - spawn 3|Jump Throw|Smoke|2456.830000,2153.160000,132.077179|-26.133760,-138.114441,0.000000
+Inferno FaZe mid smoke - spawn 4|Jump Throw|Smoke|2397.000000,2079.000000,132.767548|-27.612106,-138.683029,0.000000
+Inferno FaZe mid smoke - spawn 5|Jump Throw|Smoke|2353.000000,1977.000000,135.518875|-34.557541,-140.147324,0.000000
+Inferno FaZe mid smoke - spawn 6|Jump Throw|Smoke|2292.060000,2027.690000,135.956955|-27.504463,-138.356216,0.000000
+Mirage window|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-29.013554,-165.977768,0.000000
+Mirage bottom con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-51.327881,-156.552582,0.000000
+Mirage B short boost|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-43.027225,-179.190460,0.000000
+Mirage top con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-30.461113,-148.113495,0.000000
+Mirage instant top con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-35.250259,-148.314117,0.000000
+Mirage instant bottom con|Jump Throw|Smoke|1296.000000,32.000000,-167.968750|-50.989075,-156.875702,0.000000
+Mirage window|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-41.971962,-171.705566,0.000000
+Mirage bottom con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-46.528366,-168.154633,0.000000
+Mirage B short boost|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-42.272835,170.777679,0.000000
+Mirage top con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-45.630005,-156.112274,0.000000
+Mirage instant top con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-43.905212,-156.404724,0.000000
+Mirage instant bottom con|Jump Throw|Smoke|1296.000244,-352.000031,-167.968750|-43.124924,-168.199127,0.000000
+Mirage window|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-42.422153,-163.495102,0.000000
+Mirage bottom con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-54.130779,-156.871063,0.000000
+Mirage B short boost|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-48.664074,179.520050,0.000000
+Mirage top con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-40.917725,-148.170258,0.000000
+Mirage instant top con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-39.608734,-148.200897,0.000000
+Mirage instant bottom con|Jump Throw|Smoke|1216.000000,-16.000000,-163.968750|-53.607182,-156.948029,0.000000
+Mirage window|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-43.996048,-165.789886,0.000000
+Mirage bottom con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-54.962418,-159.428802,0.000000
+Mirage B short boost|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-48.525364,176.593109,0.000000
+Mirage top con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-41.656902,-150.126007,0.000000
+Mirage instant top con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-40.779106,-150.418671,0.000000
+Mirage instant bottom con|Jump Throw|Smoke|1216.000000,-115.000000,-163.968750|-54.454220,-159.490356,0.000000
+Mirage window|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-45.045380,-168.063843,0.000000
+Mirage bottom con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-55.332088,-161.896484,0.000000
+Mirage B short boost|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-47.370190,173.878662,0.000000
+Mirage top con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-56.333225,-147.990448,0.000000
+Mirage instant top con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-55.547829,-148.282959,0.000000
+Mirage instant bottom con|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-54.777691,-162.004120,0.000000
+Mirage astralis|Jump Throw|Smoke|-1776.000000,-1976.000000,-263.968750|-25.794962,41.439438,0.000000
+Mirage 5 Smoke A execute|Jump Throw|Smoke|1216.000244,-211.000000,-163.968750|-43.843693,-148.176086,0.000000
+Nuke instant lobby - spawn 3|Jump Throw|Smoke|2552.000000,-424.000000,-351.968750|-43.320171,177.977814,0.000000
+Nuke instant lobby - spawn 4|Jump Throw|Smoke|2504.000000,-344.000000,-351.968750|-44.875481,-179.921127,0.000000
+Nuke instant lobby - spawn 5|Jump Throw|Smoke|2585.000000,-344.000000,-351.968750|-43.400000,-179.920593,0.000000
+Overpass mid incendiary|Normal|Molotov|-2199.000000,740.000000,476.031250|4.727787,-74.165680,0.000000
+Overpass banana to B stairs molotov|Normal|Molotov|-2273.000000,770.000000,476.031250|10.213520,-36.714256,0.000000
+Overpass Monster Smoke Spawn 1|Jump Throw|Smoke|-2199.000000,740.000000,539.871216|-11.029430,-41.537399,0.000000
+Overpass Monster Smoke Spawn 2|Jump Throw|Smoke|-2273.000000,770.000000,539.871216|-22.162880,-43.208073,0.000000
+Overpass Monster Smoke Spawn 3|Jump Throw|Smoke|-2343.000000,797.000000,539.871216|-20.916456,-39.977432,0.000000
+Overpass Monster Smoke Spawn 4|Jump Throw|Smoke|-2190.000000,817.000000,539.871216|-13.015195,-47.011066,0.000000
+Overpass Monster Smoke Spawn 5|Jump Throw|Smoke|-2275.000000,842.000000,539.871216|-14.704636,-45.844772,0.000000
