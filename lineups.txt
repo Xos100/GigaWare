@@ -1,6 +1,6 @@
 ## De_Mirage
 ## De_Dust 2
-
+## De_Inferno
 global|de_mirage T window|Jump Throw|Smoke|1422.969,36.453,-167.969|-30.457,-164.312,0.000|-5375.564,-1873.014,4048.469
 global|de_mirage T short|Jump Throw|Smoke|1422.965,-367.969,-167.969|-33.999,176.298,0.000|-5354.429,70.511,4476.810
 global|de_mirage T tunnel|Jump Throw|Smoke|1422.965,-367.969,-167.969|-47.459,-178.824,0.000|-4114.673,-481.667,5931.800
