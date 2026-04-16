@@ -1,6 +1,8 @@
 ## de_mirage
 ## de_dust2
 ## de_inferno
+## de_anubis
+
 global|de_mirage T window|Jump Throw|Smoke|1422.969,36.453,-167.969|-30.457,-164.312,0.000|-5375.564,-1873.014,4048.469
 global|de_mirage T short|Jump Throw|Smoke|1422.965,-367.969,-167.969|-33.999,176.298,0.000|-5354.429,70.511,4476.810
 global|de_mirage T tunnel|Jump Throw|Smoke|1422.965,-367.969,-167.969|-47.459,-178.824,0.000|-4114.673,-481.667,5931.800
@@ -16,6 +18,7 @@ global|de_mirage CT A Tetris|Normal|Smoke|-1710.827,-1554.560,-260.183|-45.374,-
 global|de_mirage CT A Main|Jump Throw|Smoke|-2026.388,-2029.972,-299.118|-23.656,15.287,0.000|5211.744,-51.589,3048.542
 global|de_mirage CT A Palace|Jump Throw|Smoke|-2031.937,-1766.241,-298.574|-28.756,-11.045,0.000|5016.742,-3142.118,3701.407
 global|de_mirage A Connector|Run Throw|Smoke|-1045.750,-377.794,-347.068|-18.920,-52.477,0.000|3674.261,-6523.923,2367.014
+
 global|de_dust2 T Long Corner|Jump Throw|Smoke|-513.075,-662.698,126.241|-21.009,48.221,0.000|4582.139,5040.099,3122.338
 global|de_dust2 T Long Corner 2|Jump Throw|Smoke|-187.861,-660.031,49.762|-20.199,52.896,0.000|4450.141,5471.590,2939.059
 global|de_dust2 T Xbox|Jump Throw|Smoke|-299.938,-1163.964,77.673|-12.306,90.360,0.000|-350.204,6839.659,1882.938
@@ -30,6 +33,7 @@ global|de_dust2 B Doors|Jump Throw|Smoke|-1332.152,491.949,8.031|-56.637,86.739,
 global|de_dust2 B Doors Tunnel|Normal|Smoke|-2185.965,1059.031,39.665|-52.508,53.516,0.000|778.747,5068.010,6603.006
 global|de_dust2 B Site Molly|Jump Throw|Molotov|-1273.969,2575.968,70.401|0.724,11.680,0.000|6747.756,4234.309,26.394
 global|de_dust2 B Plat Molly|Jump Throw|Molotov|-1062.031,2070.048,66.031|6.512,136.653,0.000|-6980.927,7656.846,-799.071
+
 global|de_inferno Ramp|Jump Throw|Smoke|2176.177,1910.698,139.549|-33.720,-158.502,0.000|-4163.565,-586.393,4747.782
 global|de_inferno Retake|Normal|Smoke|1439.973,2985.036,128.031|-10.444,-148.006,0.000|-5392.587,-1283.431,1677.018
 global|de_inferno Coffin|Jump Throw|Smoke|457.287,1833.336,136.031|-16.030,87.579,0.000|789.889,9699.774,2462.195
@@ -38,3 +42,18 @@ global|de_inferno Full CT|Normal|Smoke|276.108,1574.550,122.300|-29.105,62.794,0
 global|de_inferno MOTO|Normal|Smoke|1097.807,447.083,106.184|-37.768,14.744,0.000|7360.330,2095.191,5186.330
 global|de_inferno Apps Lurk|Normal|Smoke|1607.241,-274.950,256.031|-9.068,-46.846,0.000|7140.242,-6176.470,1611.089
 global|de_inferno MOTO|Jump Throw|Smoke|2629.883,-309.902,104.112|0.162,134.273,0.000|-3088.762,5555.712,142.464
+
+global|de_anubis A Main|Jump Throw|Smoke|1305.193,1583.859,-151.969|-8.845,-113.949,0.000|-1980.563,-5813.849,1171.633
+global|de_anubis A Camera|Normal|Smoke|1259.971,600.033,-115.969|-22.831,125.491,0.000|-3123.469,6747.469,3126.608
+global|de_anubis Temple|Jump Throw|Smoke|1324.070,470.974,0.031|-14.411,131.037,0.000|-3885.127,6455.666,2102.807
+global|de_anubis A Heaven|Jump Throw|Smoke|744.029,625.970,-151.969|-0.061,79.182,0.000|2281.554,8672.386,-79.284
+global|de_anubis Temple|Normal|Smoke|-1125.773,-106.595,1.726|-59.243,78.465,0.000|-287.998,3998.217,7103.741
+global|de_anubis B Right|Jump Throw|Smoke|-1267.946,-314.786,5.709|-26.272,87.543,0.000|-953.076,7024.279,3694.100
+global|de_anubis B Left|Jump Throw|Smoke|-1267.946,-314.786,5.709|-26.312,89.871,0.000|-1251.401,7028.448,3699.289
+global|de_anubis B Left|Jump Throw|Smoke|-938.789,-1362.934,66.031|-12.509,99.962,0.000|-2322.307,6514.035,1903.903
+global|de_anubis Cave|Jump Throw|Smoke|80.031,-1759.956,2.031|-17.791,103.342,0.000|-1719.956,5829.743,2568.585
+global|de_anubis Mid Cave|Jump Throw|Smoke|23.969,-1744.550,6.031|-10.444,92.230,0.000|-289.545,6305.622,1553.201
+global|de_anubis Deep Cave|Jump Throw|Smoke|-347.960,-1315.762,2.031|-60.295,101.257,0.000|-1140.414,2665.512,7181.531
+global|de_anubis A Main|Jump Throw|Smoke|450.027,-879.968,2.030|-21.050,61.619,0.000|4084.141,5846.416,3007.671
+global|de_anubis Cave|Jump Throw|Smoke|837.971,-763.937,-11.969|-13.723,151.990,0.000|-6188.020,2973.383,1995.420
+global|de_anubis A Site|Jump Throw|Smoke|1282.060,571.940,2.031|12.265,125.852,0.000|-3406.438,7060.264,-1674.230
