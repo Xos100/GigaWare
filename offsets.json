@@ -16,7 +16,7 @@
     "m_pGameSceneNode": "0x338",
     "m_hPlayerPawn": "0x90C",
     "m_bSpottedByMask": "0x8",
-    "m_sSanitizedPlayerName": "0x860",
+    "m_sSanitizedPlayerName": "0x860"
   },
   "PlayerPawn": {
     "m_aimPunchAngle": "0x16CC",
@@ -27,12 +27,17 @@
     "m_iShotsFired": "0x270C"
   },
   "Smoke": {
+    "m_nSmokeEffectTickBegin": "0x1450",
     "m_bDidSmokeEffect": "0x1454",
-    "m_bSmokeEffectSpawned": "0x1499",
-    "m_bSmokeVolumeDataReceived": "0x1498",
+    "m_nRandomSeed": "0x1458",
+    "m_vSmokeColor": "0x145C",
     "m_vSmokeDetonationPos": "0x1468",
-    "m_vSmokeColor": "0x145C"
-  }
+    "m_VoxelFrameData": "0x1478",
+    "m_nVoxelFrameDataSize": "0x1490",
+    "m_nVoxelUpdate": "0x1494",
+    "m_bSmokeVolumeDataReceived": "0x1498",
+    "m_bSmokeEffectSpawned": "0x1499"
+  },
   "Flags": {
     "FL_ONGROUND": 1
   },
