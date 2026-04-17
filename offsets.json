@@ -26,18 +26,6 @@
   "Misc": {
     "m_iShotsFired": "0x270C"
   },
-  "Smoke": {
-    "m_nSmokeEffectTickBegin": "0x1450",
-    "m_bDidSmokeEffect": "0x1454",
-    "m_nRandomSeed": "0x1458",
-    "m_vSmokeColor": "0x145C",
-    "m_vSmokeDetonationPos": "0x1468",
-    "m_VoxelFrameData": "0x1478",
-    "m_nVoxelFrameDataSize": "0x1490",
-    "m_nVoxelUpdate": "0x1494",
-    "m_bSmokeVolumeDataReceived": "0x1498",
-    "m_bSmokeEffectSpawned": "0x1499"
-  },
   "Flags": {
     "FL_ONGROUND": 1
   },
