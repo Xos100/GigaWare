@@ -26,6 +26,13 @@
   "Misc": {
     "m_iShotsFired": "0x270C"
   },
+  "Smoke": {
+    "m_bDidSmokeEffect": "0x1454",
+    "m_bSmokeEffectSpawned": "0x1499",
+    "m_bSmokeVolumeDataReceived": "0x1498",
+    "m_vSmokeDetonationPos": "0x1468",
+    "m_vSmokeColor": "0x145C"
+  }
   "Flags": {
     "FL_ONGROUND": 1
   },
