@@ -17,7 +17,7 @@
     "m_hPlayerPawn": "0x90C",
     "m_bSpottedByMask": "0x8",
     "m_sSanitizedPlayerName": "0x860",
-    "m_ArmorValue ": "0x272C"
+    "m_ArmorValue": "0x272C"
   },
   "PlayerPawn": {
     "m_aimPunchAngle": "0x16CC",
