@@ -14,7 +14,7 @@
     "m_fFlags": "0x3F8",
     "m_vOldOrigin": "0x1390",
     "m_pGameSceneNode": "0x330",
-    "m_hPlayerPawn": "0x904",
+    "m_hPlayerPawn": "0x90C",
     "m_bSpottedByMask": "0xC",
     "m_sSanitizedPlayerName": "0x858",
     "m_ArmorValue": "0x1CB4"
