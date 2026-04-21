@@ -1,7 +1,7 @@
 {
   "Client": {
     "dwEntityList": "0x24C9710",
-    "dwLocalPlayerController": "0x2302E70",
+    "dwLocalPlayerController": "0x204F630",
     "dwViewAngles": "0x2338D68",
     "dwViewMatrix": "0x23290D0",
     "dwForceJump": "0x2048DB0",
