@@ -5,27 +5,27 @@
     "dwViewAngles": "0x2338D68",
     "dwViewMatrix": "0x23290D0",
     "dwForceJump": "0x2048DB0",
-    "m_iIDEntIndex": "0x3EAC",
+    "m_iIDEntIndex": "0x341C",
     "dwGlobalVars": "0x20444E8"
   },
   "Entity": {
-    "m_iHealth": "0x354",
-    "m_iTeamNum": "0x3F3",
-    "m_fFlags": "0x400",
-    "m_vOldOrigin": "0x1588",
-    "m_pGameSceneNode": "0x338",
-    "m_hPlayerPawn": "0x90C",
-    "m_bSpottedByMask": "0x8",
-    "m_sSanitizedPlayerName": "0x860",
-    "m_ArmorValue": "0x272C"
+    "m_iHealth": "0x34C",
+    "m_iTeamNum": "0x3EB",
+    "m_fFlags": "0x3F8",
+    "m_vOldOrigin": "0x1390",
+    "m_pGameSceneNode": "0x330",
+    "m_hPlayerPawn": "0x904",
+    "m_bSpottedByMask": "0xC",
+    "m_sSanitizedPlayerName": "0x858",
+    "m_ArmorValue": "0x1CB4"
   },
   "PlayerPawn": {
-    "m_aimPunchAngle": "0x16CC",
-    "m_vecViewOffset": "0xD58",
-    "m_angEyeAngles": "0x3DD0"
+    "m_aimPunchAngle": "0x14D4",
+    "m_vecViewOffset": "0xE70",
+    "m_angEyeAngles": "0x3340"
   },
   "Misc": {
-    "m_iShotsFired": "0x270C"
+    "m_iShotsFired": "0x1C9C"
   },
   "Flags": {
     "FL_ONGROUND": 1
