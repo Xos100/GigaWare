@@ -22,7 +22,12 @@
   "PlayerPawn": {
     "m_aimPunchAngle": "0x14D4",
     "m_vecViewOffset": "0xE70",
-    "m_angEyeAngles": "0x3340"
+    "m_angEyeAngles": "0x3340",
+    "m_pWeaponServices": "0x11E0"
+  },
+  "Weapon": {
+    "m_iItemDefinitionIndex": "0x1BA",
+    "ActiveWeaponHandle": "0x60"
   },
   "Misc": {
     "m_iShotsFired": "0x1C9C"
