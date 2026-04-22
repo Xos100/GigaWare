@@ -22,7 +22,7 @@
     "m_ArmorValue": "0x1C74"
   },
   "PlayerPawn": {
-    "m_aimPunchAngle": "0x14D4",
+    "m_aimPunchAngle": "0x1298",
     "m_vecViewOffset": "0xE70",
     "m_angEyeAngles": "0x3300",
     "m_pWeaponServices": "0x11E0"
