@@ -6,7 +6,9 @@
     "dwViewMatrix": "0x232EAC0",
     "dwForceJump": "0x204DF30",
     "m_iIDEntIndex": "0x33DC",
-    "dwGlobalVars": "0x20496A0"
+    "dwGlobalVars": "0x20496A0",
+    "m_modelState": "0x150",
+    "m_skeletonInstance": "0x80"
   },
   "Entity": {
     "m_iHealth": "0x34C",
