@@ -29,7 +29,7 @@
   },
   "Weapon": {
     "m_iItemDefinitionIndex": "0x1BA",
-    "ActiveWeaponHandle": "0x60"
+    "m_hActiveWeapon": "0x60"
   },
   "Misc": {
     "m_iShotsFired": "0x1C5C"
