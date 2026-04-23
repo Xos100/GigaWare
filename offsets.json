@@ -2,7 +2,6 @@
   "Client": {
     "dwEntityList": "0x24CED50",
     "dwLocalPlayerController": "0x2308520",
-    "dwPlantedC4": "0x2336A48",
     "dwViewAngles": "0x233E408",
     "dwViewMatrix": "0x232EAC0",
     "dwForceJump": "0x204DF30",
@@ -18,14 +17,12 @@
     "m_vOldOrigin": "0x1390",
     "m_pGameSceneNode": "0x330",
     "m_hPlayerPawn": "0x904",
-    "m_bSpottedByMask": "0xC",
     "m_sSanitizedPlayerName": "0x858",
     "m_ArmorValue": "0x1C74"
   },
   "PlayerPawn": {
     "m_pAimPunchServices": "0x1490",
     "m_vecViewOffset": "0xE70",
-    "m_angEyeAngles": "0x3300",
     "m_pWeaponServices": "0x11E0"
   },
   "Weapon": {
@@ -34,24 +31,7 @@
     "m_AttributeManager": "0x1180",
     "m_Item": "0x50"
   },
-  "Bomb": {
-    "m_bBombTicking": "0x1160",
-    "m_flC4Blow": "0x1190",
-    "m_flTimerLength": "0x1198",
-    "m_bBeingDefused": "0x119C",
-    "m_flDefuseCountDown": "0x11B0",
-    "m_flDefuseLength": "0x11AC",
-    "m_nBombSite": "0x1164"
-  },
   "Misc": {
     "m_iShotsFired": "0x1C5C"
-  },
-  "Flags": {
-    "FL_ONGROUND": 1
-  },
-  "Teams": {
-    "SPECTATOR": 1,
-    "TERRORIST": 2,
-    "COUNTER_TERRORIST": 3
   }
 }
