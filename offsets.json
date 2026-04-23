@@ -2,6 +2,7 @@
   "Client": {
     "dwEntityList": "0x24CED50",
     "dwLocalPlayerController": "0x2308520",
+    "dwPlantedC4": "0x2336A48",
     "dwViewAngles": "0x233E408",
     "dwViewMatrix": "0x232EAC0",
     "dwForceJump": "0x204DF30",
@@ -32,6 +33,15 @@
     "m_hActiveWeapon": "0x60",
     "m_AttributeManager": "0x1180",
     "m_Item": "0x50"
+  },
+  "Bomb": {
+    "m_bBombTicking": "0x1160",
+    "m_flC4Blow": "0x1190",
+    "m_flTimerLength": "0x1198",
+    "m_bBeingDefused": "0x119C",
+    "m_flDefuseCountDown": "0x11B0",
+    "m_flDefuseLength": "0x11AC",
+    "m_nBombSite": "0x1164"
   },
   "Misc": {
     "m_iShotsFired": "0x1C5C"
