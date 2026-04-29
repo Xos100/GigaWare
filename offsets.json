@@ -41,10 +41,10 @@
     "m_Item": "0x50"
   },
   "Inferno": {
-    "m_fireCount": "0x1958",
-    "m_firePositions": "0x1958",
-    "m_bFireIsBurning": "0x1618"
-  }
+    "m_fireCount": "0x10A8",
+    "m_firePositions": "0x768",
+    "m_bFireIsBurning": "0xD68"
+  },
   "Misc": {
     "m_iShotsFired": "0x1C5C"
   },
