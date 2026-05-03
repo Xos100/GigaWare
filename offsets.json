@@ -1,12 +1,12 @@
 {
   "Client": {
-    "dwEntityList": "0x24CEC60",
-    "dwLocalPlayerController": "0x23084C0",
-    "dwViewAngles": "0x233E308",
-    "dwViewMatrix": "0x232E9C0",
-    "dwForceJump": "0x204DE30",
-    "m_iIDEntIndex": "0x33DC",
-    "dwGlobalVars": "0x20495A0",
+    "dwEntityList": "0x24D1DF0",
+    "dwLocalPlayerController": "0x230B5D0",
+    "dwViewAngles": "0x2341488",
+    "dwViewMatrix": "0x2331B30",
+    "dwForceJump": "0x2050EA0",
+    "m_iIDEntIndex": "0x343C",
+    "dwGlobalVars": "0x204C5D8",
     "m_modelState": "0x150",
     "m_skeletonInstance": "0x80"
   },
@@ -21,12 +21,12 @@
     "m_bPawnIsAlive": "0x90C",
     "m_bSpottedByMask": "0xC",
     "m_sSanitizedPlayerName": "0x858",
-    "m_ArmorValue": "0x1C74"
+    "m_ArmorValue": "0x1C7C"
   },
   "PlayerPawn": {
     "m_pAimPunchServices": "0x1490",
     "m_vecViewOffset": "0xE70",
-    "m_angEyeAngles": "0x3300",
+    "m_angEyeAngles": "0x3360",
     "m_pWeaponServices": "0x11E0",
     "m_pObserverServices": "0x11F8"
   },
@@ -41,7 +41,7 @@
     "m_Item": "0x50"
   },
   "Misc": {
-    "m_iShotsFired": "0x1C5C"
+    "m_iShotsFired": "0x1C64"
   },
   "Flags": {
     "FL_ONGROUND": 1
