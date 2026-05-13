@@ -42,8 +42,6 @@
   "Weapon": {
     "m_iItemDefinitionIndex": "0x1BA",
     "m_hActiveWeapon": "0x60",
-    "m_AttributeManager": "0x1180",
-    "m_Item": "0x50"
   },
   "Misc": {
     "m_iShotsFired": "0x1C64"
