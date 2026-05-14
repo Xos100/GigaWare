@@ -1,3 +1,8 @@
+Here is the updated JSON. You can copy and replace the content of your `offsets.json` file on your GitHub repository with this. 
+
+I've added `m_pInGameMoneyServices` to `Entity`, `m_pItemServices` to `PlayerPawn`, and created the new `InGameMoneyServices`, `ItemServices`, and `C4` objects with standard CS2 offset values (you can double check `m_bHasC4` with your dumper).
+
+```json
 {
   "Client": {
     "dwEntityList": "0x24D0DC0",
@@ -22,7 +27,8 @@
     "m_bSpottedByMask": "0xC",
     "m_sSanitizedPlayerName": "0x860",
     "m_ArmorValue": "0x1C7C",
-    "m_vecVelocity": "0x430"
+    "m_vecVelocity": "0x430",
+    "m_pInGameMoneyServices": "0x730"
   },
   "PlayerPawn": {
     "m_pAimPunchServices": "0x1490",
@@ -30,7 +36,14 @@
     "m_angEyeAngles": "0x3370",
     "m_pWeaponServices": "0x11E0",
     "m_pObserverServices": "0x11F8",
-    "m_pInventoryServices": "0x810"
+    "m_pInventoryServices": "0x810",
+    "m_pItemServices": "0x11B0"
+  },
+  "InGameMoneyServices": {
+    "m_iAccount": "0x40"
+  },
+  "ItemServices": {
+    "m_bHasDefuser": "0x40"
   },
   "InventoryServices": {
     "m_unMusicID": "0x58"
@@ -48,6 +61,9 @@
   "Misc": {
     "m_iShotsFired": "0x1C64"
   },
+  "C4": {
+    "m_bHasC4": "0x0"
+  },
   "Flags": {
     "FL_ONGROUND": 1
   },
@@ -56,4 +72,5 @@
     "TERRORIST": 2,
     "COUNTER_TERRORIST": 3
   }
-} 
+}
+```
