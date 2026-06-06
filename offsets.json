@@ -1,12 +1,12 @@
 {
   "Client": {
-    "dwEntityList": "0x24E5590",
-    "dwLocalPlayerController": "0x231E700",
-    "dwViewAngles": "0x23548B8",
-    "dwViewMatrix": "0x2344B30",
-    "dwForceJump": "0x2063FA0",
+    "dwEntityList": "0x24E6590",
+    "dwLocalPlayerController": "0x231F700",
+    "dwViewAngles": "0x23558B8",
+    "dwViewMatrix": "0x2345B30",
+    "dwForceJump": "0x2064FA0",
     "m_iIDEntIndex": "0x33FC",
-    "dwGlobalVars": "0x205F6D0",
+    "dwGlobalVars": "0x20606D0",
     "m_modelState": "0x150",
     "m_skeletonInstance": "0x80"
   },
