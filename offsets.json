@@ -23,6 +23,7 @@
     "m_sSanitizedPlayerName": "0x860",
     "m_ArmorValue": "0x1C7C",
     "m_vecVelocity": "0x430"
+    "m_steamID": "0x780"
   },
   "PlayerPawn": {
     "m_pAimPunchServices": "0x1490",
