@@ -8,7 +8,8 @@
     "m_iIDEntIndex": "0x33FC",
     "dwGlobalVars": "0x20606D0",
     "m_modelState": "0x150",
-    "m_skeletonInstance": "0x80"
+    "m_skeletonInstance": "0x80",
+    "dwWeaponC4": "0x22BDD00"
   },
   "Entity": {
     "m_iHealth": "0x34C",
