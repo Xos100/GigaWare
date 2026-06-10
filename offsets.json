@@ -23,8 +23,12 @@
     "m_bSpottedByMask": "0xC",
     "m_sSanitizedPlayerName": "0x860",
     "m_ArmorValue": "0x1C7C",
-    "m_vecVelocity": "0x430"
-    "m_steamID": "0x780"
+    "m_vecVelocity": "0x430",
+    "m_steamID": "0x780",
+    "m_hOwnerEntity": "0x520",
+    "m_iPing": "0x828",
+    "m_pInGameMoneyServices": "0x808",
+    "m_iAccount": "0x40"
   },
   "PlayerPawn": {
     "m_pAimPunchServices": "0x1490",
@@ -32,7 +36,10 @@
     "m_angEyeAngles": "0x3320",
     "m_pWeaponServices": "0x11E0",
     "m_pObserverServices": "0x11F8",
-    "m_pInventoryServices": "0x810"
+    "m_pInventoryServices": "0x810",
+    "m_flFlashOverlayAlpha": "0x13F4",
+    "m_bIsDefusing": "0x1C52",
+    "m_bIsScoped": "0x1C50"
   },
   "InventoryServices": {
     "m_unMusicID": "0x58"
