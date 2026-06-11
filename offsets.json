@@ -4,7 +4,7 @@
     "dwLocalPlayerController": "0x2320720",
     "dwViewAngles": "0x23568C8",
     "dwViewMatrix": "0x2346B30",
-    "dwForceJump": "0x2064FA0",
+    "dwForceJump": "0x2065FA0",
     "m_iIDEntIndex": "0x33FC",
     "dwGlobalVars": "0x20616D0",
     "m_modelState": "0x150",
