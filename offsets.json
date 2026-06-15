@@ -51,7 +51,7 @@
   "Weapon": {
     "m_iItemDefinitionIndex": "0x1BA",
     "m_hActiveWeapon": "0x60",
-    "m_AttributeManager": "0x1180",
+    "m_AttributeManager": "0x1180", //econ_entity
     "m_Item": "0x50"
   },
   "Misc": {
