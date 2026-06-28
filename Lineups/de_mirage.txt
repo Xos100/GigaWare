@@ -1,0 +1,15 @@
+global|de_mirage T window|Jump Throw|Smoke|1422.969,36.453,-167.969|-30.457,-164.312,0.000|-5375.564,-1873.014,4048.469
+global|de_mirage T short|Jump Throw|Smoke|1422.965,-367.969,-167.969|-33.999,176.298,0.000|-5354.429,70.511,4476.810
+global|de_mirage T tunnel|Jump Throw|Smoke|1422.965,-367.969,-167.969|-47.459,-178.824,0.000|-4114.673,-481.667,5931.800
+global|de_mirage T A Stairs|Jump Throw|Smoke|907.275,-1036.078,-251.969|-56.101,-161.600,0.000|-3428.072,-2478.259,6608.745
+global|de_mirage T A ct side|Jump Throw|Smoke|907.275,-1036.078,-251.969|-26.044,-148.282,0.000|-5353.601,-4905.570,3406.054
+global|de_mirage T A Connector|Jump Throw|Smoke|1239.971,-1159.969,-246.394|-24.162,-176.113,0.000|-6217.130,-1666.611,3164.518
+global|de_mirage T A Jungle|Jump Throw|Smoke|1239.971,-1159.969,-246.394|-50.657,-172.915,0.000|-3913.833,-1800.522,6146.703
+global|de_mirage T B Market Door|Jump Throw|Smoke|-160.030,887.972,-135.328|-43.067,-151.684,0.000|-5428.652,-1950.813,5522.261
+global|de_mirage T B Bench|Jump Throw|Smoke|-160.030,887.972,-135.328|-44.686,-166.418,0.000|-5821.448,-479.771,5689.126
+global|de_mirage T B Window|Jump Throw|Smoke|-160.030,887.972,-135.328|-47.418,-146.866,0.000|-4801.761,-2141.845,5960.220
+global|de_mirage CT B Site|Jump Throw|Smoke|-1710.968,-1208.031,-255.077|-66.282,96.025,0.000|-2056.811,2068.896,7305.901
+global|de_mirage CT A Tetris|Normal|Smoke|-1710.827,-1554.560,-260.183|-45.374,-1.755,0.000|4041.205,-1730.810,5632.730
+global|de_mirage CT A Main|Jump Throw|Smoke|-2026.388,-2029.972,-299.118|-23.656,15.287,0.000|5211.744,-51.589,3048.542
+global|de_mirage CT A Palace|Jump Throw|Smoke|-2031.937,-1766.241,-298.574|-28.756,-11.045,0.000|5016.742,-3142.118,3701.407
+global|de_mirage A Connector|Run Throw|Smoke|-1045.750,-377.794,-347.068|-18.920,-52.477,0.000|3674.261,-6523.923,2367.014
