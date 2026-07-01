@@ -1,9 +1,9 @@
 {
   "Client": {
-    "dwEntityList": "0x24E76A0",
-    "dwLocalPlayerController": "0x2320720",
-    "dwViewAngles": "0x23568C8",
-    "dwViewMatrix": "0x2346B30",
+    "dwEntityList": "0x24E7680",
+    "dwLocalPlayerController": "0x2320570",
+    "dwViewAngles": "0x2356748",
+    "dwViewMatrix": "0x23469C0",
     "dwForceJump": "0x2065FA0",
     "m_iIDEntIndex": "0x33FC",
     "dwGlobalVars": "0x20616D0",
